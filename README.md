@@ -28,4 +28,4 @@ Cada diagrama fue pensado para que un lector externo comprenda de manera rápida
 - **SQLite** → manejo de la base de datos local.
 
 ## ✅ Relación con el Informe Integrador
-Estos diagramas se incluyen como parte del **Informe Final de ORPER** y cumplen la función de explicar con claridad la arquitectura del sistema para su evaluación. Complementan los apartados de **Desarrollo** y **Diseño** detallados en el documento escrito.
+Estos diagramas son parte del **Informe Final de ORPER** y cumplen la función de explicar con claridad la arquitectura del sistema para su evaluación. Complementan las secciones de **Desarrollo** y **Diseño** detallados en el documento escrito.
