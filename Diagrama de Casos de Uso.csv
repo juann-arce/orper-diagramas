@@ -1,0 +1,17 @@
+id,Nombre,Biblioteca de figuras,ID de página,Contenido por,Grupo,Origen de línea,Destino de la línea,Flecha de origen,Flecha de destino,Estado,Área de texto 1
+1,Documento,,,,,,,,,Borrador,Diagrama de Casos de Uso
+2,Página,,,,,,,,,,Página 1
+3,Contenedor rectangular,UML,2,,,,,,,,ORPER
+4,Actor,UML,2,,,,,,,,Usuario
+5,Caso de uso,UML,2,3,,,,,,,Registrarse
+6,Caso de uso,UML,2,3,,,,,,,Iniciar Sesión
+7,Caso de uso,UML,2,3,,,,,,,Agregar/Modificar/Eliminar Eventos
+8,Caso de uso,UML,2,3,,,,,,,Escribir/Editar/Eliminar Notas
+9,Caso de uso,UML,2,3,,,,,,,Crear/Editar/Eliminar Recordatorios
+10,Caso de uso,UML,2,3,,,,,,,Registrar Ingresos/Gastos
+11,Línea,,2,,,4,5,None,Equilateral Arrow,,
+12,Línea,,2,,,4,6,None,Equilateral Arrow,,
+13,Línea,,2,,,4,7,None,Equilateral Arrow,,
+14,Línea,,2,,,4,8,None,Equilateral Arrow,,
+15,Línea,,2,,,4,9,None,Equilateral Arrow,,
+16,Línea,,2,,,4,10,None,Equilateral Arrow,,
