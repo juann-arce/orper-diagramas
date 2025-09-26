@@ -22,7 +22,7 @@ Estos son los diagramas que seleccionamos y creamos para representar la arquitec
 Cada diagrama fue pensado para que un lector externo comprenda de manera rápida cómo está diseñado e implementado ORPER.
 
 ## 🖥️ Herramientas Utilizadas
-- **Draw.io / Lucidchart** → creación de diagramas.
+- **Lucidchart** → creación de diagramas.
 - **Figma** → diseño de interfaces.
 - **Visual Studio Code** → entorno de desarrollo.
 - **Dart + Flutter** → frontend y lógica de la app.
