@@ -17,7 +17,6 @@ Estos son los diagramas que seleccionamos y creamos para representar la arquitec
    - **Casos de uso:** describen las interacciones principales entre el usuario y la app.
    - **Entidad-Relación:** modela la estructura de la base de datos.
    - **Diagrama de Secuencia y de Actividad:** muestran cómo fluye la información entre los distintos módulos.
-   - **Diagrama de Clases:** organiza los objetos principales del sistema.
 
 Cada diagrama fue pensado para que un lector externo comprenda de manera rápida cómo está diseñado e implementado ORPER.
 
