@@ -24,3 +24,6 @@ Cada diagrama fue pensado para que un lector externo comprenda de manera rápida
 
 ## 🖥️ Herramientas Utilizadas
 - **Draw.io / Lucidchart** → creación de diagramas.
+
+## ✅ Relación con el Informe Integrador
+Estos diagramas son parte del **Informe Final de ORPER** y cumplen la función de explicar con claridad la arquitectura del sistema para entender como funciona y así evaluarlo.
